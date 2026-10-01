@@ -49,6 +49,9 @@ It prints these test-set metrics:
 - **MAE** — Mean Absolute Error
 - **RMSE** — Root Mean Squared Error
 - **R²** — coefficient of determination
+  
+## run the app.py 
+python -m streamlit run app.py
 
 ## Train and save the Gradient Boosting model
 
